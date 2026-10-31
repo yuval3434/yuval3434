@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yuval
 
-<!--
-**yuval3434/yuval3434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Afeka College (B.Sc., 2027), focused on backend development.
 
-Here are some ideas to get you started:
+I build services that run on their own — mostly in Python and Java, with PostgreSQL, Redis and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **[Polymarket BTC Sniper](link)** — multi-agent trading system with a probability model, fee-aware entries, and a backtest → paper-trade gate before any strategy goes live
+- **[Polymarket Trading Bot](https://github.com/yuval3434/polymarket-bot70)** — multi-asset bot developed over five versions, including a migration to Polymarket's CLOB V2
+- **[College Management System](link)** — Java project re-architected onto a normalized PostgreSQL schema
+
+### Stack
+
+Python · Java · SQL · PostgreSQL · Redis · Docker · Linux · AWS · Git
+
+📫 [LinkedIn](https://linkedin.com/in/yuval-dror1)
